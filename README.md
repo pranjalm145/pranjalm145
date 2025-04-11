@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif"  />
+</div>
+
+###
 # 💫 About Me:
 👋🏻 Hi there, I'm Pranjal <br>🎓 undergrad CSE student at Bennett University<br>🌱 currently learning DSA and Web Development<br>📬 Let's connect!<br>📧 Email: pranjalm145@gmail.com
 
